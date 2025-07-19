@@ -13,7 +13,7 @@
 - 🔭 I’m working on **full-stack MERN projects** and learning **Next.js** & **MySQL**
 - 🌱 Currently diving deeper into **backend architecture** and **API development**
 - 💬 Ask me about **React, Next.js, Tailwind CSS, Node.js, MongoDB, MySQL**
-- 📫 How to reach me: **khalil.webdev@gmail.com**
+- 📫 How to reach me: **muhammadkhalil.web@gmail.com**
 - ⚡ Fun fact: I enjoy turning ideas into fully functional web apps 🚀
 
 ---
